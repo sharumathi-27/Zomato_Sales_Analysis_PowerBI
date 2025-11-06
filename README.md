@@ -1,4 +1,5 @@
 # 🍽️ Zomato Sales Analysis Using PowerBI
+![zomato_sales](https://github.com/user-attachments/assets/058ee3e2-92ab-4bb3-8d76-242911d917e2)
 
 📊 Project Overview
 
