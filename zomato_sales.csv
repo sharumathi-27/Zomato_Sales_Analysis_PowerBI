@@ -1,9 +1,0 @@
-Order_ID,Customer_Name,Restaurant_Name,Food_Item,Price,Quantity,Order_Date,City,Payment_Method
-101,Amit,Spice Villa,Burger,120,2,2025-01-10,Mumbai,UPI
-102,Sara,Foodie's Hub,Pizza,250,1,2025-01-12,Delhi,Card
-103,John,Pizza Point,Pasta,180,3,2025-02-15,Bangalore,Cash
-104,Riya,Spice Villa,Burger,120,1,2025-02-18,Mumbai,Cash
-105,Mohit,Foodie's Hub,Fries,80,2,2025-03-10,Delhi,UPI
-106,Ali,Pizza Point,Pizza,250,2,2025-03-12,Bangalore,Card
-107,Neha,Curry House,Curry,200,1,2025-04-01,Hyderabad,Cash
-108,David,Spice Villa,Burger,120,1,2025-04-05,Mumbai,UPI
