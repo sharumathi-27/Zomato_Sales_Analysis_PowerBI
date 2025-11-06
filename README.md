@@ -25,7 +25,7 @@ This project provides a comprehensive sales analysis of Zomato restaurants using
 
 • Pivot Tables & Charts for dynamic analysis
 
-• Data Cleaning & Transformation using Excel formulas
+• Data Cleaning & Transformation using Power Query
 
 📈 Key Features:
 
@@ -41,7 +41,7 @@ This project provides a comprehensive sales analysis of Zomato restaurants using
 
 💡 Learnings:
 
-• Enhanced skills in data cleaning, visualization, and storytelling
+• Enhanced skills in data cleaning, visualization and storytelling
 
 • Gained insights into food industry trends and customer preferences
 
