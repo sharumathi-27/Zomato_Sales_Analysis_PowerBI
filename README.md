@@ -7,42 +7,42 @@ This project provides a comprehensive sales analysis of Zomato restaurants using
 
 🧠 Key Insights:
 
-Total Restaurants Analyzed: 9,545+
+1. Total Restaurants Analyzed: 9,545+
 
-Average Cost for Two: 25M
+2. Average Cost for Two: 25M
 
-Average Ratings: 55K
+3. Average Ratings: 55K
 
-Top Countries: Indonesia, India, Sri Lanka, USA
+4. Top Countries: Indonesia, India, Sri Lanka, USA
 
-Most Popular Cuisines: Western, North Indian, Chinese
+5. Most Popular Cuisines: Western, North Indian, Chinese
 
-Online Delivery: 80.77% of restaurants offer online delivery
+6. Online Delivery: 80.77% of restaurants offer online delivery
 
 ⚙️ Tools Used:
 
-Microsoft Excel (Dashboard & Data Visualization)
+• Microsoft Excel (Dashboard & Data Visualization)
 
-Pivot Tables & Charts for dynamic analysis
+• Pivot Tables & Charts for dynamic analysis
 
-Data Cleaning & Transformation using Excel formulas
+• Data Cleaning & Transformation using Excel formulas
 
 📈 Key Features:
 
-Country-wise and city-wise restaurant performance
+• Country-wise and city-wise restaurant performance
 
-Cuisine and price range comparison
+• Cuisine and price range comparison
 
-Online delivery impact on ratings
+• Online delivery impact on ratings
 
-Interactive filters (Country, City, Price Range, Online Delivery)
+• Interactive filters (Country, City, Price Range, Online Delivery)
 
 🖼️ Dashboard Preview:
 
 💡 Learnings:
 
-Enhanced skills in data cleaning, visualization, and storytelling
+• Enhanced skills in data cleaning, visualization, and storytelling
 
-Gained insights into food industry trends and customer preferences
+• Gained insights into food industry trends and customer preferences
 
-Improved ability to design interactive dashboards for business insights
+• Improved ability to design interactive dashboards for business insights
